@@ -1,0 +1,12 @@
+{
+    "name": "edwinkortman/kowalski",
+    "authors": [
+        {
+            "name": "edwinkortman",
+            "email": "edwin@future500.nl"
+        }
+    ],
+    "require": {
+        "google/cloud-vision": "^0.19.1"
+    }
+}
